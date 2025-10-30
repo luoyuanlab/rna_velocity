@@ -3,7 +3,7 @@
 ### **Overview**
 Single-cell RNA sequencing (scRNA-seq) provides unprecedented resolution of cellular states but captures only a static snapshot, limiting its ability to reveal dynamic biological processes. RNA velocity overcomes part of this limitation by inferring short-term transcriptional dynamics from unspliced and spliced mRNA abundances, thereby estimating each cell’s future state.
 
-Despite substantial methodological progress, existing RNA velocity models remain limited by simplified assumptions, such as simplified kinetic assumptions, overlook of gene regulatory networks, and insufficient incorporation of developmental trajectory constraints. These constraints can compromise both accuracy and interpretability, particularly in complex or heterogeneous developmental systems.
+Despite substantial methodological progress, existing RNA velocity models remain limited by simplified kinetic assumptions, limited consideration of gene regulatory networks, and insufficient incorporation of developmental trajectory constraints. These constraints can compromise both accuracy and interpretability, particularly in complex or heterogeneous developmental systems.
 
 <p align="center">  <img src="https://github.com/luoyuanlab/rna_velocity/blob/main/img_folder/Figure%201.png" height="800px" />  </p>  <br />
 
