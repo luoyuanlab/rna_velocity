@@ -1,6 +1,5 @@
 #  **Mechanism-grounded RNA velocity: from kinetic models to deep learning and foundation models**
 
-## **Description**
 ### **Overview**
 Single-cell RNA sequencing (scRNA-seq) provides unprecedented resolution of cellular states but captures only a static snapshot, limiting its ability to reveal dynamic biological processes. RNA velocity overcomes part of this limitation by inferring short-term transcriptional dynamics from unspliced and spliced mRNA abundances, thereby estimating each cell’s future state.
 
