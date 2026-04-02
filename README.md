@@ -29,3 +29,6 @@ Tools that are compared include:
 * [DeepKINET](https://github.com/3254c/DeepKINET)
 * [cell2fate](https://github.com/BayraktarLab/cell2fate)
 * [cellDancer](https://github.com/GuangyuWangLab2021/cellDancer)
+
+### **Usage**
+The codes for proceeding RNA velocity are stored in the `benchmark/` directory
