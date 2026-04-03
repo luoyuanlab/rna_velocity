@@ -18,7 +18,7 @@ To further assess model performance under spatially heterogeneous kinetics, we s
 ## **System requirements**
 ### **OS Requirements**
 The codes have been tested on the following systems:
-* Linux: CentOS Linux 7 (Core)
+* Linux: CentOS Linux 7
 
 ### **Tools**
 Tools that are compared include:
