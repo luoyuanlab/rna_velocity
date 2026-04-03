@@ -30,7 +30,7 @@ Tools that are compared include:
 * [DeepKINET](https://github.com/3254c/DeepKINET)
 * [cell2fate](https://github.com/BayraktarLab/cell2fate)
 * [cellDancer](https://github.com/GuangyuWangLab2021/cellDancer)
-<pre>
+</pre>
 ### **Python Dependencies**
 <pre>
 numpy
