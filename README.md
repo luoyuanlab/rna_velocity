@@ -17,7 +17,7 @@ To further assess model performance under spatially heterogeneous kinetics, we s
 
 ## **System requirements**
 ### **OS Requirements**
-The package has been tested on the following systems:
+The codes have been tested on the following systems:
 * Linux: CentOS Linux 7 (Core)
 
 ### **Tools**
