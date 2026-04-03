@@ -15,6 +15,7 @@ To further assess model performance under spatially heterogeneous kinetics, we s
 
 <p align="center">  <img src="https://github.com/luoyuanlab/rna_velocity/blob/main/img_folder/Figure%203.png" height="800px" />  </p>  <br />
 
+## **Software requirements**
 ### **Tools**
 Tools that are compared include:
 
@@ -29,6 +30,19 @@ Tools that are compared include:
 * [DeepKINET](https://github.com/3254c/DeepKINET)
 * [cell2fate](https://github.com/BayraktarLab/cell2fate)
 * [cellDancer](https://github.com/GuangyuWangLab2021/cellDancer)
+## **Python Dependencies**
+<pre>
+
+Python Dependencies
+mgcpy mainly depends on the Python scientific stack.
+
+numpy
+scipy
+Cython
+scikit-learn
+pandas
+seaborn
+</pre>
 
 ### **Usage**
 The codes for proceeding RNA velocity are stored in the `benchmark/` directory
