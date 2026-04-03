@@ -30,18 +30,18 @@ Tools that are compared include:
 * [DeepKINET](https://github.com/3254c/DeepKINET)
 * [cell2fate](https://github.com/BayraktarLab/cell2fate)
 * [cellDancer](https://github.com/GuangyuWangLab2021/cellDancer)
-## **Python Dependencies**
+### **Python Dependencies**
 <pre>
-
-Python Dependencies
-mgcpy mainly depends on the Python scientific stack.
-
 numpy
 scipy
-Cython
-scikit-learn
+torch
 pandas
+scanpy
+anndata
+pickle
 seaborn
+umap
+matplotlib
 </pre>
 
 ### **Usage**
