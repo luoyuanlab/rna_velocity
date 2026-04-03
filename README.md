@@ -16,6 +16,10 @@ To further assess model performance under spatially heterogeneous kinetics, we s
 <p align="center">  <img src="https://github.com/luoyuanlab/rna_velocity/blob/main/img_folder/Figure%203.png" height="800px" />  </p>  <br />
 
 ## **Software requirements**
+### **OS Requirements**
+The package has been tested on the following systems:
+* Linux: CentOS Linux 7 (Core)
+
 ### **Tools**
 Tools that are compared include:
 
