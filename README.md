@@ -18,7 +18,7 @@ To further assess model performance under spatially heterogeneous kinetics, we s
 ## **Software requirements**
 ### **Tools**
 Tools that are compared include:
-<pre>
+
 * [scVelo](https://github.com/theislab/scvelo)
 * [VeloVAE](https://github.com/welch-lab/VeloVAE)
 * [LatentVelo](https://github.com/Spencerfar/LatentVelo)
@@ -30,7 +30,7 @@ Tools that are compared include:
 * [DeepKINET](https://github.com/3254c/DeepKINET)
 * [cell2fate](https://github.com/BayraktarLab/cell2fate)
 * [cellDancer](https://github.com/GuangyuWangLab2021/cellDancer)
-</pre>
+
 ### **Python Dependencies**
 <pre>
 numpy
