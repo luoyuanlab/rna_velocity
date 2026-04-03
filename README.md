@@ -37,7 +37,7 @@ Tools that are compared include:
 * [cellDancer](https://github.com/GuangyuWangLab2021/cellDancer)
 
 ### **Python Dependencies**
-Typically installing time ~15 minutes.
+Installation time ~15 minutes.
 <pre>
 numpy
 scipy
